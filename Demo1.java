@@ -31,6 +31,8 @@ class Box{
         this.value = value;
     }
 }
+//type imformation is lost
+
 // class  Box {
 //     private int value;
 //     Box(int value){
